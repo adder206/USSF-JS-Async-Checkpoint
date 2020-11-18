@@ -1,2 +1,11 @@
-charizard
-pikachu
+Charizard
+Pikachu
+Charmander
+Bulbasaur
+Squirtle
+Meowth
+Charmeleon
+Lucario
+Eevee
+Ditto
+Jigglypuff
